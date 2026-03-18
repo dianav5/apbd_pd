@@ -2,3 +2,5 @@
 Console.WriteLine("Line 1");
 Console.WriteLine("Line 2");
 int[] numbers = { 1, 2, 3 };
+double avg = (2 + 4 + 6) / 3.0;
+Console.WriteLine(avg);
