@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Hello, World!");
-Console.WriteLine("Main version");
+Console.WriteLine("Resolved conflict");
 Console.WriteLine("Line 2");
 int[] numbers = { 1, 2, 3 };
 double avg = (2 + 4 + 6) / 3.0;
