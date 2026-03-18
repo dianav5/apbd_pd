@@ -8,4 +8,5 @@ Console.WriteLine("Main change");
 int max = Math.Max(3, 7);
 Console.WriteLine(max);
 int min = Math.Min(3, 7);
+Console.WriteLine(min);
 Console.WriteLine("Another main change");
